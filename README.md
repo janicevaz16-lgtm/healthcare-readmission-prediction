@@ -37,6 +37,7 @@ can help identify encounters associated with 30-day readmission.
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+- Ucimlrepo
 
 ## Analysis
 
